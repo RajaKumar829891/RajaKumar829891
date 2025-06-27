@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Odoo+Developer;AI-Enhanced+Solutions+Specialist;Full-Stack+Developer;Docker+%26+Python+Expert" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Odoo 17/18 Specialist | AI-Enhanced ERP Solutions | Docker Expert from Bhopal, India 🇮🇳</h3>
+<h3 align="center">🚀 Odoo 15/16/17/18 Specialist | AI-Enhanced ERP Solutions | Docker Expert from Bhopal, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RajaKumar829891&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
