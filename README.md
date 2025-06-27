@@ -166,7 +166,7 @@ I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** wit
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RajaKumar829891/RajaKumar829891/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaKumar829891&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
