@@ -192,7 +192,7 @@ I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** wit
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=class+OdooDeveloper%3A;++++def+__init__(self%2C+name)%3A;++++++++self.name+%3D+%22Raja+Kumar%22;++++++++self.skills+%3D+%5B%22Python%22%2C+%22Odoo%22%2C+%22Docker%22%5D" alt="Coding Animation" />
 
   <!-- Developer GIF -->
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF"/>
+  <img width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF"/>
   
   <!-- Matrix Rain Effect -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BUILDING%20THE%20FUTURE&fontAlign=50&fontSize=40&textBg=false&desc=One%20Odoo%20Module%20at%20a%20Time&descAlign=50&descAlignY=65&animation=twinkling&height=120"/>
