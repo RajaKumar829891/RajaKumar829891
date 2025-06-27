@@ -189,7 +189,7 @@ I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** wit
 <div align="center">
   
   <!-- Coding Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=class+OdooDeveloper%3A;++++def+__init__(self%2C+name)%3A;++++++++self.name+%3D+%22Raja+Kumar%22;++++++++self.skills+%3D+%5B%22Python%22%2C+%22Odoo%22%2C+%22Docker%22%5D" alt="Coding Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=class+OdooDeveloper%3A;++++def+__init__(self%2C+name)%3A;++++++++self.name+%3D+%22Raja+Kumar%22;++++++++self.skills+%3D+%5B%22Python%22%2C+%22Odoo%22%2C+%5B%22API Integration%22%2C+%5B%22Custmization%22%2C+%22AI%22%5D" alt="Coding Animation" />
 
   <!-- Developer GIF -->
   <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF"/>
