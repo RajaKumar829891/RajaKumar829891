@@ -199,14 +199,25 @@ I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** wit
 
 </div>
 
-## 🎯 Live Development Activity
+## 🎯 Live Development Dashboard
 
 <div align="center">
   
-  <!-- Code Activity Simulation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=⏰+Today's+Coding+Time%3A+8h+32m;🐍+Python%3A+65%25+│+🔧+JavaScript%3A+25%25+│+🗄️+SQL%3A+10%25;📂+Working+on%3A+Odoo+Fleet+Management+Module;🚀+Status%3A+Building+the+Future...+one+commit+at+a+time!" alt="Live Coding Stats"/>
-
+  <!-- Dynamic Coding Dashboard -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&text=💻%20LIVE%20CODING%20SESSION&fontAlign=50&fontSize=24&textBg=false&desc=Real-time%20Developer%20Analytics&descAlign=50&descAlignY=70&animation=fadeIn&height=100"/>
   
+  <br>
+  
+  <!-- Animated Progress Bars -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=150&lines=┌─────────────────────────────────────────┐;│+🐍+Python++++++++████████████░░░+85%25+│;│+⚡+JavaScript++████████░░░░░░░░░+60%25+│;│+🗄️+PostgreSQL++███████░░░░░░░░░░+55%25+│;│+🐳+Docker++++++++██████░░░░░░░░░░+50%25+│;└─────────────────────────────────────────┘" alt="Skill Levels"/>
+
+  <!-- Live Activity Meter -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🔥+CURRENTLY+ACTIVE+🔥;├─+Odoo+Module%3A+Fleet+Management+System;├─+Status%3A+Coding+in+Progress...;└─+Next%3A+AI+Integration+Module+🤖" alt="Current Activity"/>
+
+  <!-- Dynamic Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RajaKumar829891&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FFD700&custom_title=⚡+Raja's+Coding+Stats" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaKumar829891&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&card_width=400&custom_title=🚀+Top+Languages" alt="Top Languages"/>
+
 </div>
 
 ## 📊 GitHub Analytics Dashboard
