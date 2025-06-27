@@ -1,29 +1,43 @@
-# <div align="center">🚀 Welcome to Raja Kumar's Universe 🌟</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&text=💻%20RAJA%20KUMAR%20💻&fontAlign=50&fontSize=45&fontAlignY=40&textBg=false&desc=AI-Enhanced%20Solutions%20Architect&descAlign=50&descAlignY=65&animation=twinkling&height=200"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=🔥+ODOO+DEVELOPER+EXTRAORDINAIRE+🔥;⚡+AI-ENHANCED+SOLUTIONS+SPECIALIST+⚡;🐳+DOCKER+%26+PYTHON+EXPERT+🐳;🚀+BUILDING+TOMORROW'S+ERP+TODAY+🚀" alt="Dynamic Title" />
-</div>
+# <div align="center">🌌 Welcome to Raja Kumar's Digital Cosmos 🚀</div>
 
 <div align="center">
   
-  <!-- Animated Location & Role -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=📍+Located+in+Bhopal%2C+Madhya+Pradesh%2C+India+🇮🇳;🏢+Currently+@+Annapurna+Tour+%26+Travels;💼+Full-Stack+Odoo+17%2F18+Specialist;🎯+50%2B+Custom+Modules+Deployed!" alt="Location & Role"/>
+  <!-- Ultra Modern Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24&text=✨%20RAJA%20KUMAR%20✨&fontAlign=50&fontSize=50&fontAlignY=45&textBg=false&desc=🤖%20AI-Enhanced%20Solutions%20Architect%20🤖&descAlign=50&descAlignY=70&descSize=20&animation=blinking&height=180&stroke=00D4AA&strokeWidth=2"/>
   
-  <!-- Glowing Badges -->
-  <img src="https://img.shields.io/badge/🔥_STATUS-CODING_IN_PROGRESS-00ff00?style=for-the-badge&labelColor=000000&color=00ff00&logoColor=white&animation=pulse"/>
-  <img src="https://img.shields.io/badge/⚡_LEVEL-EXPERT_DEVELOPER-ff6b00?style=for-the-badge&labelColor=000000&color=ff6b00"/>
-  <img src="https://img.shields.io/badge/🚀_MISSION-AI_ENHANCED_ERP-9f00ff?style=for-the-badge&labelColor=000000&color=9f00ff"/>
+  <!-- Futuristic Glitch Effect Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=2000&pause=500&color=00ff41&center=true&vCenter=true&width=1000&lines=⚡+NEXT-GEN+DEVELOPER+⚡;🔥+ODOO+VIRTUOSO+🔥;🚀+AI+INTEGRATION+MASTER+🚀;💎+DIGITAL+INNOVATION+ARCHITECT+💎;🌟+FUTURE+TECH+PIONEER+🌟" alt="Glitch Effect Title" />
   
+  <!-- Holographic Subtitle -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&size=28&duration=3500&pause=1500&color=FFD700&center=true&vCenter=true&width=900&lines=🏢+Senior+Developer+@+Annapurna+Tour+%26+Travels;📍+Innovating+from+Bhopal%2C+India+🇮🇳;💻+Crafting+Tomorrow's+ERP+Solutions;🎯+25%2B+Production+Modules+%26+Counting..." alt="Holographic Subtitle"/>
+
 </div>
 
 <div align="center">
   
-  <!-- Matrix-style animated stats -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=[+INITIALIZING+DEVELOPER+PROFILE...+];[+LOADING+SKILLS...+████████████+100%25+];[+STATUS%3A+READY+TO+INNOVATE+🚀+]" alt="Matrix Loading"/>
+  <!-- Neon Glow Badges with Animation -->
+  <img src="https://img.shields.io/badge/⚡_MODE-INNOVATION_ACTIVE-00ff00?style=for-the-badge&labelColor=000000&color=00ff00&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/🎯_EXPERTISE-ODOO_17/18_MASTER-ff3366?style=for-the-badge&labelColor=000000&color=ff3366"/>
+  <img src="https://img.shields.io/badge/🚀_TECH-AI_ENHANCED_ERP-9146ff?style=for-the-badge&labelColor=000000&color=9146ff"/>
+  <img src="https://img.shields.io/badge/🔥_STATUS-BUILDING_FUTURE-ff6600?style=for-the-badge&labelColor=000000&color=ff6600"/>
+  
+  <br><br>
+  
+  <!-- Cyberpunk Loading Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=20&duration=1500&pause=800&color=00ffff&center=true&vCenter=true&multiline=true&width=800&height=120&lines=╔══════════════════════════════════════╗;║+🔋+INITIALIZING+QUANTUM+DEVELOPER...+║;║+📡+LOADING+AI+ALGORITHMS...+███████+║;║+✅+READY+FOR+NEXT-LEVEL+CODING+🚀++║;╚══════════════════════════════════════╝" alt="Cyberpunk Loading"/>
+
+  <!-- Floating Tech Icons with Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=2000&color=ff00ff&center=true&vCenter=true&width=900&lines=🐍+Python+Wizard+│+🐳+Docker+Ninja+│+⚡+JavaScript+Guru;🗄️+PostgreSQL+Expert+│+🤖+AI+Integration+Specialist;🔧+Custom+Module+Architect+│+🎨+UI/UX+Designer" alt="Floating Tech"/>
+
+</div>
+
+<div align="center">
+  
+  <!-- Holographic Profile Stats -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&text=🌟%20DEVELOPER%20METRICS%20🌟&fontAlign=50&fontSize=22&textBg=false&animation=fadeIn&height=80"/>
+  
+  <!-- Matrix Digital Counter -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=2500&pause=1000&color=39ff14&center=true&vCenter=true&multiline=true&width=700&height=100&lines=[+QUANTUM+STATS+LOADING...+];[+💻+LINES_OF_CODE%3A+∞+++🔥+COFFEE_CONSUMED%3A+∞+];[+🚀+MODULES_BUILT%3A+25%2B+++⭐+DREAMS_ACHIEVED%3A+∞+]" alt="Digital Counter"/>
 
 </div>
 
@@ -39,8 +53,8 @@
 I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** with expertise in building scalable, containerized business applications. I specialize in merging traditional development with cutting-edge AI tools to create next-generation ERP solutions.
 
 - 🔭 Currently working at **Annapurna Tour & Travels** as Full-Time Odoo Developer
-- 🌱 Specialized in **Odoo 17/18**, **Docker**, **Python**, **API Integration**, **Custmization** and **AI Integration**
-- 💡 Built **50+ custom Odoo modules** including fleet management, payment systems, and CRM solutions
+- 🌱 Specialized in **Odoo 17/18**, **Docker**, **Python**, and **AI Integration**
+- 💡 Built **25+ custom Odoo modules** including fleet management, payment systems, and CRM solutions
 - 🤖 Proficient in integrating **ChatGPT**, **Claude Sonnet**, **GitHub Copilot**, and **Gemini**
 - 📍 Based in **Bhopal, Madhya Pradesh, India**
 - 💬 Ask me about **Odoo Development**, **Docker Containerization**, **IoT Integration**
