@@ -11,7 +11,7 @@
 <div align="center">
   
   <!-- Animated Location & Role -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=📍+Located+in+Bhopal%2C+Madhya+Pradesh%2C+India+🇮🇳;🏢+Currently+@+Annapurna+Tour+%26+Travels;💼+Full-Stack+Odoo+17%2F18+Specialist;🎯+25%2B+Custom+Modules+Deployed!" alt="Location & Role"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=📍+Located+in+Bhopal%2C+Madhya+Pradesh%2C+India+🇮🇳;🏢+Currently+@+Annapurna+Tour+%26+Travels;💼+Full-Stack+Odoo+17%2F18+Specialist;🎯+50%2B+Custom+Modules+Deployed!" alt="Location & Role"/>
   
   <!-- Glowing Badges -->
   <img src="https://img.shields.io/badge/🔥_STATUS-CODING_IN_PROGRESS-00ff00?style=for-the-badge&labelColor=000000&color=00ff00&logoColor=white&animation=pulse"/>
@@ -39,8 +39,8 @@
 I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** with expertise in building scalable, containerized business applications. I specialize in merging traditional development with cutting-edge AI tools to create next-generation ERP solutions.
 
 - 🔭 Currently working at **Annapurna Tour & Travels** as Full-Time Odoo Developer
-- 🌱 Specialized in **Odoo 17/18**, **Docker**, **Python**, and **AI Integration**
-- 💡 Built **25+ custom Odoo modules** including fleet management, payment systems, and CRM solutions
+- 🌱 Specialized in **Odoo 17/18**, **Docker**, **Python**, **API Integration**, **Custmization** and **AI Integration**
+- 💡 Built **50+ custom Odoo modules** including fleet management, payment systems, and CRM solutions
 - 🤖 Proficient in integrating **ChatGPT**, **Claude Sonnet**, **GitHub Copilot**, and **Gemini**
 - 📍 Based in **Bhopal, Madhya Pradesh, India**
 - 💬 Ask me about **Odoo Development**, **Docker Containerization**, **IoT Integration**
