@@ -1,10 +1,31 @@
-# Hi there! I'm Raja Kumar 👋
+# <div align="center">🚀 Welcome to Raja Kumar's Universe 🌟</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Odoo+Developer;AI-Enhanced+Solutions+Specialist;Full-Stack+Developer;Docker+%26+Python+Expert" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&text=💻%20RAJA%20KUMAR%20💻&fontAlign=50&fontSize=45&fontAlignY=40&textBg=false&desc=AI-Enhanced%20Solutions%20Architect&descAlign=50&descAlignY=65&animation=twinkling&height=200"/>
 </div>
 
-<h3 align="center">🚀 Odoo 17/18 Specialist | AI-Enhanced ERP Solutions | Docker Expert from Bhopal, India 🇮🇳</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=🔥+ODOO+DEVELOPER+EXTRAORDINAIRE+🔥;⚡+AI-ENHANCED+SOLUTIONS+SPECIALIST+⚡;🐳+DOCKER+%26+PYTHON+EXPERT+🐳;🚀+BUILDING+TOMORROW'S+ERP+TODAY+🚀" alt="Dynamic Title" />
+</div>
+
+<div align="center">
+  
+  <!-- Animated Location & Role -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=📍+Located+in+Bhopal%2C+Madhya+Pradesh%2C+India+🇮🇳;🏢+Currently+@+Annapurna+Tour+%26+Travels;💼+Full-Stack+Odoo+17%2F18+Specialist;🎯+25%2B+Custom+Modules+Deployed!" alt="Location & Role"/>
+  
+  <!-- Glowing Badges -->
+  <img src="https://img.shields.io/badge/🔥_STATUS-CODING_IN_PROGRESS-00ff00?style=for-the-badge&labelColor=000000&color=00ff00&logoColor=white&animation=pulse"/>
+  <img src="https://img.shields.io/badge/⚡_LEVEL-EXPERT_DEVELOPER-ff6b00?style=for-the-badge&labelColor=000000&color=ff6b00"/>
+  <img src="https://img.shields.io/badge/🚀_MISSION-AI_ENHANCED_ERP-9f00ff?style=for-the-badge&labelColor=000000&color=9f00ff"/>
+  
+</div>
+
+<div align="center">
+  
+  <!-- Matrix-style animated stats -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=[+INITIALIZING+DEVELOPER+PROFILE...+];[+LOADING+SKILLS...+████████████+100%25+];[+STATUS%3A+READY+TO+INNOVATE+🚀+]" alt="Matrix Loading"/>
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RajaKumar829891&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
