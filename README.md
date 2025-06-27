@@ -205,6 +205,7 @@ I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** wit
   
   <!-- Code Activity Simulation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=⏰+Today's+Coding+Time%3A+8h+32m;🐍+Python%3A+65%25+│+🔧+JavaScript%3A+25%25+│+🗄️+SQL%3A+10%25;📂+Working+on%3A+Odoo+Fleet+Management+Module;🚀+Status%3A+Building+the+Future...+one+commit+at+a+time!" alt="Live Coding Stats"/>
+
   
 </div>
 
