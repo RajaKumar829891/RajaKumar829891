@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Odoo+Developer;AI-Enhanced+Solutions+Specialist;Full-Stack+Developer;Docker+%26+Python+Expert" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Odoo 15/16/17/18 Specialist | AI-Enhanced ERP Solutions | Docker Expert from Bhopal, India 🇮🇳</h3>
+<h3 align="center">🚀 Odoo 17/18 Specialist | AI-Enhanced ERP Solutions | Docker Expert from Bhopal, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RajaKumar829891&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -18,8 +18,8 @@
 I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** with expertise in building scalable, containerized business applications. I specialize in merging traditional development with cutting-edge AI tools to create next-generation ERP solutions.
 
 - 🔭 Currently working at **Annapurna Tour & Travels** as Full-Time Odoo Developer
-- 🌱 Specialized in **Odoo 15/16/17/18**, **Docker**, **Python**, **API Integration**, **Custmization** and **AI Integration**
-- 💡 Built **50+ custom Odoo modules** including fleet management, payment systems, and CRM solutions
+- 🌱 Specialized in **Odoo 17/18**, **Docker**, **Python**, and **AI Integration**
+- 💡 Built **25+ custom Odoo modules** including fleet management, payment systems, and CRM solutions
 - 🤖 Proficient in integrating **ChatGPT**, **Claude Sonnet**, **GitHub Copilot**, and **Gemini**
 - 📍 Based in **Bhopal, Madhya Pradesh, India**
 - 💬 Ask me about **Odoo Development**, **Docker Containerization**, **IoT Integration**
@@ -163,10 +163,75 @@ I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** wit
 
 ---
 
-## 🐍 Contribution Graph
+## 💻 Developer Animation & Visuals
 
 <div align="center">
-  <img src="https://github.com/RajaKumar829891/RajaKumar829891/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  
+  <!-- Coding Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=class+OdooDeveloper%3A;++++def+__init__(self%2C+name)%3A;++++++++self.name+%3D+%22Raja+Kumar%22;++++++++self.skills+%3D+%5B%22Python%22%2C+%22Odoo%22%2C+%22Docker%22%5D" alt="Coding Animation" />
+
+  <!-- Developer GIF -->
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF"/>
+  
+  <!-- Matrix Rain Effect -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=BUILDING%20THE%20FUTURE&fontAlign=30&fontSize=30&textBg=true&desc=One%20Odoo%20Module%20at%20a%20Time&descAlign=60&descAlignY=50&animation=twinkling"/>
+
+</div>
+
+## 🚀 Animated Tech Stack
+
+<div align="center">
+  
+  <!-- Rotating Badges -->
+  <img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=306998&color=FFD43B&animation=pulse"/>
+  <img src="https://img.shields.io/badge/Odoo-ERP_Development-purple?style=for-the-badge&logo=odoo&logoColor=white&labelColor=714B67&color=875A7B"/>
+  <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=0db7ed"/>
+  
+  <br><br>
+  
+  <!-- Animated Skill Bars -->
+  <img src="https://skillicons.dev/icons?i=py,js,docker,postgres,html,css,git,github&theme=dark&perline=4" alt="Skills"/>
+  
+  <br><br>
+  
+  <!-- Animated Developer Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaKumar829891&theme=neon-dark&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak"/>
+
+</div>
+
+## 🎯 Live Coding Stats
+
+<div align="center">
+  
+  <!-- WakaTime-style coding activity -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RajaKumar829891&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA" alt="Coding Time"/>
+  
+  <!-- Animated contribution graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=RajaKumar829891&theme=react-dark&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajaKumar829891&theme=github_dark" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaKumar829891&theme=github_dark" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaKumar829891&theme=github_dark" alt="Commits" />
+</div>
+
+## 🔥 Dynamic Profile Elements
+
+<div align="center">
+  
+  <!-- Animated trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=RajaKumar829891&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  
+  <!-- Terminal-style quote -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=%24+echo+%22Building+tomorrow's+solutions%22;%24+git+commit+-m+%22Another+day%2C+another+module%22;%24+docker+run+-d+innovation;%24+python+manage.py+change_the_world" alt="Terminal Animation"/>
+
 </div>
 
 ---
