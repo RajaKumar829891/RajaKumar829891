@@ -18,7 +18,7 @@
 I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** with expertise in building scalable, containerized business applications. I specialize in merging traditional development with cutting-edge AI tools to create next-generation ERP solutions.
 
 - 🔭 Currently working at **Annapurna Tour & Travels** as Full-Time Odoo Developer
-- 🌱 Specialized in **Odoo 15/16/17/18**, **Docker**, **Python**, and **AI Integration**
+- 🌱 Specialized in **Odoo 15/16/17/18**, **Docker**, **Python**, **API Integration**, **Custmization** and **AI Integration**
 - 💡 Built **50+ custom Odoo modules** including fleet management, payment systems, and CRM solutions
 - 🤖 Proficient in integrating **ChatGPT**, **Claude Sonnet**, **GitHub Copilot**, and **Gemini**
 - 📍 Based in **Bhopal, Madhya Pradesh, India**
