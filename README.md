@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=🔥+ODOO+DEVELOPER+EXTRAORDINAIRE+🔥;⚡+AI-ENHANCED+SOLUTIONS+SPECIALIST+⚡;🐳+DOCKER+%26+PYTHON+EXPERT+🐳;🚀+BUILDING+TOMORROW'S+ERP+TODAY+🚀" alt="Dynamic Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=35&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=🔥+ODOO+DEVELOPER+EXTRAORDINAIRE+🔥;⚡+AI-ENHANCED+SOLUTIONS+SPECIALIST+⚡;🐳+DOCKER+%26+PYTHON+EXPERT+🐳;🚀+BUILDING+TOMORROW'S+ERP+TODAY+🚀" alt="Dynamic Title" />
 </div>
 
 <div align="center">
