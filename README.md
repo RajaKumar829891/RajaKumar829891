@@ -2,42 +2,45 @@
 
 <div align="center">
   
-  <!-- Ultra Modern Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24&text=✨%20RAJA%20KUMAR%20✨&fontAlign=50&fontSize=50&fontAlignY=45&textBg=false&desc=🤖%20AI-Enhanced%20Solutions%20Architect%20🤖&descAlign=50&descAlignY=70&descSize=20&animation=blinking&height=180&stroke=00D4AA&strokeWidth=2"/>
+  <!-- Ultra Modern 3D Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&text=✨%20RAJA%20KUMAR%20✨&fontAlign=50&fontSize=55&fontAlignY=35&fontColor=ffffff&textBg=false&desc=🤖%20AI-Enhanced%20Solutions%20Architect%20🤖&descAlign=50&descAlignY=60&descSize=22&animation=twinkling&height=220&stroke=00D4AA&strokeWidth=3"/>
   
-  <!-- Futuristic Glitch Effect Title -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=2000&pause=500&color=00ff41&center=true&vCenter=true&width=1000&lines=⚡+NEXT-GEN+DEVELOPER+⚡;🔥+ODOO+VIRTUOSO+🔥;🚀+AI+INTEGRATION+MASTER+🚀;💎+DIGITAL+INNOVATION+ARCHITECT+💎;🌟+FUTURE+TECH+PIONEER+🌟" alt="Glitch Effect Title" />
+  <!-- Modern Neon Glitch Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=900&size=45&duration=1500&pause=300&color=ff006e&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=⚡+NEXT-GEN+DEVELOPER;🔥+ODOO+VIRTUOSO;🚀+AI+INTEGRATION+MASTER;💎+DIGITAL+ARCHITECT;🌟+FUTURE+PIONEER" alt="Neon Glitch Title" />
   
-  <!-- Holographic Subtitle -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&size=28&duration=3500&pause=1500&color=FFD700&center=true&vCenter=true&width=900&lines=🏢+Senior+Developer+@+Annapurna+Tour+%26+Travels;📍+Innovating+from+Bhopal%2C+India+🇮🇳;💻+Crafting+Tomorrow's+ERP+Solutions;🎯+25%2B+Production+Modules+%26+Counting..." alt="Holographic Subtitle"/>
+  <!-- Floating Hologram Subtitle -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&duration=4000&pause=2000&color=00d4ff&center=true&vCenter=true&width=900&lines=🏢+Senior+Developer+@+Annapurna+Tours;📍+Innovating+from+Bhopal%2C+India+🇮🇳;💻+Crafting+Tomorrow's+ERP+Solutions;🎯+25%2B+Production+Modules+%26+Counting...;🚀+Building+AI-Powered+Business+Systems" alt="Hologram Subtitle"/>
 
 </div>
 
 <div align="center">
   
-  <!-- Neon Glow Badges with Animation -->
-  <img src="https://img.shields.io/badge/⚡_MODE-INNOVATION_ACTIVE-00ff00?style=for-the-badge&labelColor=000000&color=00ff00&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/🎯_EXPERTISE-ODOO_17/18_MASTER-ff3366?style=for-the-badge&labelColor=000000&color=ff3366"/>
-  <img src="https://img.shields.io/badge/🚀_TECH-AI_ENHANCED_ERP-9146ff?style=for-the-badge&labelColor=000000&color=9146ff"/>
-  <img src="https://img.shields.io/badge/🔥_STATUS-BUILDING_FUTURE-ff6600?style=for-the-badge&labelColor=000000&color=ff6600"/>
+  <!-- 3D Floating Badges Animation -->
+  <img src="https://img.shields.io/badge/⚡_MODE-INNOVATION_ACTIVE-00ff41?style=for-the-badge&labelColor=0a0a0a&color=00ff41&logoWidth=20&animation=bounce"/>
+  <img src="https://img.shields.io/badge/🎯_LEVEL-ODOO_17/18_MASTER-ff0080?style=for-the-badge&labelColor=0a0a0a&color=ff0080"/>
+  <img src="https://img.shields.io/badge/🚀_TECH-AI_ENHANCED_ERP-8a2be2?style=for-the-badge&labelColor=0a0a0a&color=8a2be2"/>
+  <img src="https://img.shields.io/badge/🔥_STATUS-BUILDING_FUTURE-ff4500?style=for-the-badge&labelColor=0a0a0a&color=ff4500"/>
   
   <br><br>
   
-  <!-- Cyberpunk Loading Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=20&duration=1500&pause=800&color=00ffff&center=true&vCenter=true&multiline=true&width=800&height=120&lines=╔══════════════════════════════════════╗;║+🔋+INITIALIZING+QUANTUM+DEVELOPER...+║;║+📡+LOADING+AI+ALGORITHMS...+███████+║;║+✅+READY+FOR+NEXT-LEVEL+CODING+🚀++║;╚══════════════════════════════════════╝" alt="Cyberpunk Loading"/>
+  <!-- Matrix Digital Rain Loading -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&duration=1000&pause=500&color=39ff14&background=000000&center=true&vCenter=true&multiline=true&width=900&height=140&lines=┌─────────────────────────────────────┐;│+🔋+INITIALIZING+QUANTUM+CORE...+++│;│+🌐+LOADING+AI+ALGORITHMS...+██████+│;│+⚡+NEURAL+NETWORKS+ACTIVE+🧠+++++++│;│+✅+READY+FOR+HYPERSPACE+CODING+🚀++│;└─────────────────────────────────────┘" alt="Matrix Loading"/>
 
-  <!-- Floating Tech Icons with Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=2000&color=ff00ff&center=true&vCenter=true&width=900&lines=🐍+Python+Wizard+│+🐳+Docker+Ninja+│+⚡+JavaScript+Guru;🗄️+PostgreSQL+Expert+│+🤖+AI+Integration+Specialist;🔧+Custom+Module+Architect+│+🎨+UI/UX+Designer" alt="Floating Tech"/>
+  <!-- Particle Effect Tech Skills -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=28&duration=3000&pause=1500&color=ff6b35&center=true&vCenter=true&width=950&lines=🐍+Python+Quantum+Master+│+🐳+Docker+Space+Engineer;⚡+JavaScript+Lightning+Wizard+│+🗄️+PostgreSQL+Data+Architect;🤖+AI+Integration+Specialist+│+🎨+UI/UX+Experience+Designer;🔧+Custom+Module+Builder+│+🌊+Workflow+Automation+Expert" alt="Particle Tech"/>
 
 </div>
 
 <div align="center">
   
-  <!-- Holographic Profile Stats -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&text=🌟%20DEVELOPER%20METRICS%20🌟&fontAlign=50&fontSize=22&textBg=false&animation=fadeIn&height=80"/>
+  <!-- Holographic Stats Panel -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ff006e,50:8338ec,100:3a86ff&text=🌟%20QUANTUM%20DEVELOPER%20METRICS%20🌟&fontAlign=50&fontSize=26&fontColor=ffffff&textBg=false&animation=blinking&height=90&stroke=00ffff&strokeWidth=2"/>
   
-  <!-- Matrix Digital Counter -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=2500&pause=1000&color=39ff14&center=true&vCenter=true&multiline=true&width=700&height=100&lines=[+QUANTUM+STATS+LOADING...+];[+💻+LINES_OF_CODE%3A+∞+++🔥+COFFEE_CONSUMED%3A+∞+];[+🚀+MODULES_BUILT%3A+25%2B+++⭐+DREAMS_ACHIEVED%3A+∞+]" alt="Digital Counter"/>
+  <!-- Cyberpunk Digital HUD -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=2000&pause=800&color=00ffff&background=0a0a0a&center=true&vCenter=true&multiline=true&width=800&height=120&lines=╔══════════════════════════════════════╗;║+💻+LINES_OF_CODE%3A+∞+++🔥+IMPACT%3A+MASSIVE+║;║+🚀+MODULES_DEPLOYED%3A+25%2B++⭐+RATING%3A+★★★★★+║;║+🎯+MISSION%3A+TRANSFORM_BUSINESS_LOGIC+++║;╚══════════════════════════════════════╝" alt="Cyberpunk HUD"/>
+
+  <!-- Floating Particle Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=5000&pause=3000&color=ff69b4&center=true&vCenter=true&width=700&lines=✨+Floating+in+the+digital+dimension...+✨;🌌+Where+code+meets+cosmic+innovation+🌌;🔮+Transforming+ideas+into+reality+🔮" alt="Floating Particles"/>
 
 </div>
 
