@@ -19,7 +19,7 @@ I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** wit
 
 - 🔭 Currently working at **Annapurna Tour & Travels** as Full-Time Odoo Developer
 - 🌱 Specialized in **Odoo 15/16/17/18**, **Docker**, **Python**, and **AI Integration**
-- 💡 Built **25+ custom Odoo modules** including fleet management, payment systems, and CRM solutions
+- 💡 Built **50+ custom Odoo modules** including fleet management, payment systems, and CRM solutions
 - 🤖 Proficient in integrating **ChatGPT**, **Claude Sonnet**, **GitHub Copilot**, and **Gemini**
 - 📍 Based in **Bhopal, Madhya Pradesh, India**
 - 💬 Ask me about **Odoo Development**, **Docker Containerization**, **IoT Integration**
