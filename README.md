@@ -174,7 +174,7 @@ I'm a passionate **Odoo Developer** and **AI-Enhanced Solutions Specialist** wit
   <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF"/>
   
   <!-- Matrix Rain Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=BUILDING%20THE%20FUTURE&fontAlign=30&fontSize=30&textBg=true&desc=One%20Odoo%20Module%20at%20a%20Time&descAlign=60&descAlignY=50&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BUILDING%20THE%20FUTURE&fontAlign=50&fontSize=40&textBg=false&desc=One%20Odoo%20Module%20at%20a%20Time&descAlign=50&descAlignY=65&animation=twinkling&height=120"/>
 
 </div>
 
