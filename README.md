@@ -1,8 +1,7 @@
-# <div align="center">🚀 Hi there! I'm Raja Kumar 👋![CuteChaPriGIF](https://github.com/user-attachments/assets/d38dd329-3e2c-4c4e-8bac-987c74de38b5)
-</div>
+# <div align="center">🚀 Hi there! I'm Raja Kumar 👋</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&text=💻%20RAJA%20KUMAR%20💻&fontAlign=50&fontSize=45&fontAlignY=40&textBg=false&desc=AI-Enhanced%20Solutions%20Architect&descAlign=50&descAlignY=65&animation=twinkling&height=200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&text=💻%20RAJA%20KUMAR%20💻&fontAlign=50&fontSize=45&fontAlignY=40&textBg=false&desc=AI-Enhanced%20Solutions%20Specialist&descAlign=50&descAlignY=65&animation=twinkling&height=200"/>
 </div>
 
 <div align="center">
