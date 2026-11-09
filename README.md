@@ -1,4 +1,6 @@
-# <div align="center">🚀 Hi there! I'm Raja Kumar 👋</div>
+# <div align="center">🚀 Hi there! I'm Raja Kumar — Odoo Developer &amp; ERP Consultant 👋</div>
+
+<p align="center"><b>Senior Odoo developer for Odoo 17, 18 and 19 (Community &amp; Enterprise)</b> · Odoo implementation, customization, migration and Odoo.sh hosting · Remote for clients worldwide</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&text=💻%20RAJA%20KUMAR%20💻&fontAlign=50&fontSize=45&fontAlignY=40&textBg=false&desc=AI-Enhanced%20Solutions%20Specialist&descAlign=50&descAlignY=65&animation=twinkling&height=200"/>
@@ -34,7 +36,7 @@
 
 <p align="center">
   <a href="https://raja-portfolio-lyart.vercel.app/">
-    <img src="assets/banner.png" alt="Raja Kumar — Senior Odoo Developer & ERP Consultant. Odoo 17, 18 and 19, Community and Enterprise." width="100%">
+    <img src="assets/banner.webp" alt="Raja Kumar — Senior Odoo Developer & ERP Consultant. Odoo 17, 18 and 19, Community and Enterprise." width="100%">
   </a>
 </p>
 
@@ -69,6 +71,63 @@ Over **10+ ERP projects** in India, the Middle East and Europe I've delivered **
 | **Data migration** | Zoho CRM & Books → Odoo, spreadsheets, legacy ERPs and version upgrades, with zero data loss |
 | **Hosting & DevOps** | Odoo Online, Odoo.sh or your own server; staging, production and automated off-site backups |
 | **Integrations & AI** | WhatsApp, Meta Lead Ads, payment gateways, Google Maps, IoT and Claude/MCP connected to Odoo |
+
+---
+
+### Hire an Odoo developer
+
+Looking for an **Odoo developer**, **Odoo consultant** or **Odoo implementation partner** without agency overhead? I work directly with companies and Odoo partners to plan, build and support Odoo ERP — from a first Odoo setup to complex custom modules and migrations.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Odoo apps I implement & customize**
+- Odoo CRM &amp; Sales
+- Odoo Inventory, Purchase &amp; Barcode
+- Odoo Accounting &amp; Invoicing
+- Odoo Manufacturing (MRP)
+- Odoo HR, Attendance &amp; Fleet
+- Odoo Website, eCommerce &amp; Portal
+- Odoo Project &amp; Timesheets
+
+</td>
+<td valign="top" width="50%">
+
+**Typical Odoo projects**
+- New Odoo ERP implementation (Community or Enterprise)
+- Custom Odoo module development (Python, OWL, QWeb)
+- Odoo migration &amp; upgrade (Odoo 15/16/17 → 18/19)
+- Zoho, spreadsheet &amp; legacy ERP → Odoo data migration
+- Odoo API, webhook, payment &amp; WhatsApp integrations
+- Odoo.sh / Docker hosting, backups &amp; performance tuning
+
+</td>
+</tr>
+</table>
+
+**Industries:** solar &amp; energy · manufacturing · distribution &amp; wholesale · travel &amp; logistics · education · real estate · services
+**Regions:** India · UAE &amp; Saudi Arabia · Europe (Belgium, Germany) · United States · Australia — remote, in your time zone
+
+<details>
+<summary><b>FAQ — hiring a freelance Odoo developer</b></summary>
+
+**Do you work with Odoo Community and Odoo Enterprise?**
+Yes — Odoo 17, 18 and 19 in both editions, on Odoo Online, Odoo.sh or your own server.
+
+**Can you join an existing Odoo project or help an Odoo partner?**
+Yes. I can pick up existing codebases, fix bugs, upgrade modules and add features.
+
+**Can you migrate our data to Odoo?**
+Yes — including a Zoho CRM &amp; Zoho Books → Odoo 19 migration of 100K+ records with zero data loss.
+
+**How much does an Odoo developer cost?**
+Working directly with me is typically up to 75% cheaper than a traditional ERP partner. Share your scope for a quote.
+
+**How do we start?**
+Email [rajakumar829891@gmail.com](mailto:rajakumar829891@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/raja-kumar-cseaiml) with a short description of your Odoo project.
+
+</details>
 
 ---
 
@@ -143,7 +202,7 @@ Over **10+ ERP projects** in India, the Middle East and Europe I've delivered **
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=class+OdooDeveloper%3A;++++def+__init__(self%2C+name)%3A;++++++++self.name+%3D+%22Raja+Kumar%22;++++++++self.skills+%3D+%5B%22Python%22%2C+%22Odoo%22%2C+%22AI%22%5D" alt="Coding Animation" />
 
   <!-- Developer GIF -->
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF"/>
+  <img width="320" height="320" src="assets/coding.webp" alt="Developer coding animation"/>
   
   <!-- Matrix Rain Effect -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=BUILDING%20THE%20FUTURE&fontAlign=50&fontSize=40&textBg=false&desc=One%20Odoo%20Module%20at%20a%20Time&descAlign=50&descAlignY=65&animation=twinkling&height=120"/>
