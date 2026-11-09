@@ -117,8 +117,8 @@ Over **10+ ERP projects** in India, the Middle East and Europe I've delivered **
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajaKumar829891&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaKumar829891&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajaKumar829891&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaKumar829891&theme=radical" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -126,7 +126,11 @@ Over **10+ ERP projects** in India, the Middle East and Europe I've delivered **
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaKumar829891&theme=redical&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="Activity Graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajaKumar829891/RajaKumar829891/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajaKumar829891/RajaKumar829891/output/github-snake.svg">
+    <img alt="Animated snake eating the contribution graph" src="https://raw.githubusercontent.com/RajaKumar829891/RajaKumar829891/output/github-snake-dark.svg" width="100%">
+  </picture>
 </div>
 
 ---
@@ -183,8 +187,8 @@ Over **10+ ERP projects** in India, the Middle East and Europe I've delivered **
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🔥+CURRENTLY+ACTIVE+🔥;├─+Odoo+Module%3A+MYSTOVIO+Solar+Platform;├─+Status%3A+Coding+in+Progress...;└─+Next%3A+AI+Integration+Module+🤖" alt="Current Activity"/>
 
   <!-- Dynamic Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RajaKumar829891&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=FFD700&custom_title=⚡+Raja's+Coding+Stats" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaKumar829891&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&card_width=400&custom_title=🚀+Top+Languages" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajaKumar829891&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajaKumar829891&theme=tokyonight" alt="Coding Stats"/>
 
 </div>
 
@@ -203,8 +207,8 @@ Over **10+ ERP projects** in India, the Middle East and Europe I've delivered **
 
 <div align="center">
   
-  <!-- Animated trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RajaKumar829891&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <!-- 3D contribution graph (regenerated daily by GitHub Actions) -->
+  <img src="https://raw.githubusercontent.com/RajaKumar829891/RajaKumar829891/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
   
   <!-- Terminal-style quote -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=%24+echo+%22Building+tomorrow's+solutions%22;%24+git+commit+-m+%22Another+day%2C+another+module%22;%24+docker+run+-d+innovation;%24+python+manage.py+change_the_world" alt="Terminal Animation"/>
@@ -226,7 +230,7 @@ Over **10+ ERP projects** in India, the Middle East and Europe I've delivered **
   <h3>💭 "Building tomorrow's business solutions with today's AI technology"</h3>
   <p><em>Always excited to collaborate on innovative Odoo projects and AI-enhanced solutions!</em></p>
   
-  ![Profile Counter](https://profile-counter.glitch.me/RajaKumar829891/count.svg)
+  <img src="https://komarev.com/ghpvc/?username=RajaKumar829891&label=Profile%20visitors&style=for-the-badge&color=C8A96A&labelcolor=0E0E10" alt="Profile visitors"/>
 </div>
 
 ---
